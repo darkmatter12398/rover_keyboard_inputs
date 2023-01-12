@@ -17,9 +17,14 @@ You can control the direction of the rover depending on how you use the arrow ke
 There is also combination keys, which allows the rover to go diagonally, depending on the 2 keys you combine (however, you can't combine up and down); so if you were to press the up arrow key and left arrow key at the same time, then the rover would go diagonally to the left (this can be done with the down key as well)
 
 ## Acceleration
-You can also accelerate the rover at a given direction. You have to give the rover a certain direction, and hold the spacebar button to start accelerating at that direction. If there is no direction that the rover is going at, the rover will decelerate until it's velocity hits 0. The velocity range is 0-100km/h.
+You can also accelerate the rover at a given direction. You have to give the rover a certain direction, and hold the spacebar button to start accelerating at that direction. If there is no direction that the rover is going at or the user is not holding the space key, the rover will decelerate until it's velocity hits 0. The velocity range is 0-100km/h.
 
 ## Toggle keyboard
 There is a toggle keyboard button in which if you press it, will disable/enable the keyboard depending on which state it is in. If it's clicked while the keyboard is usable, then you won't be able to moving the rover
+
+# Preview of the program:
+
+![image](https://user-images.githubusercontent.com/77501024/212005046-60e90c72-00ab-4308-8a31-670e504473cd.png)
+
 
 
