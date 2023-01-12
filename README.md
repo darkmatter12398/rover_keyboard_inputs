@@ -3,7 +3,7 @@ A program that allows you to use keyboard inputs to control the rover's movement
 
 # How to use
 1. Install [Node.js](https://nodejs.org/en/download/)
-2. Use VScode, or any type of terminal, and run this command:
+2. Use VScode, Node.js, or any viable type of terminal, and run this command:
 ```bash
 node server.js
 ```
